@@ -9,7 +9,7 @@ function Index() {
         <div className="w-full h-64 relative">
           <Image
             src="/image/me.jpeg"
-            alt="Thomas Mitchelmore"
+            alt="Erwan Régy"
             fill
             className="object-cover"
             style={{
@@ -20,16 +20,16 @@ function Index() {
         </div>
         <div className="p-8 space-y-6">
           <div className="space-y-2">
-            <h1>Thomas Mitchelmore</h1>
+            <h1>Erwan Régy</h1>
             <h2>
-              Project Manager at <a href="https://iceline-hosting.com/" target="_blank">Iceline Hosting</a>.
+              Student at the <a href="https://southampton.ac.uk/" target="_blank">University of Southampton</a>.
             </h2>
           </div>
           <p>
-            With over 6 years of experience in the industry, I&apos;m a web designer and frontend developer that&apos;s passionate about creating beautiful, responsive sites that are a joy to use.
+            Electronic Engineering student at the University of Southampton, learning bit by byte.
           </p>
           <p className="font-medium">
-            <a href="mailto:hello@mitchelmore.dev">hello@mitchelmore.dev</a>
+            <a href="mailto:erwanregy@mail.com">erwanregy@mail.com</a>
           </p>
           <div className="flex gap-4">
             <IconContext.Provider value={{size: "24"}}>
