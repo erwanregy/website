@@ -18,20 +18,20 @@ export default function App({ Component, pageProps }: AppProps) {
   return <>
     <Head>
       <title>Thomas Mitchelmore</title>
-      <meta name="description" content="With over 6 years of experience in the industry, I'm a web designer and frontend developer that's passionate about creating beautiful, responsive sites that are a joy to use." />
+      <meta name="description" content="Electronic Engineering student at the University of Southampton, learning bit by byte." />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       
       {/* Open Graph meta tags */}
-      <meta property="og:title" content="Thomas Mitchelmore" />
-      <meta property="og:description" content="With over 6 years of experience in the industry, I'm a web designer and frontend developer that's passionate about creating beautiful, responsive sites that are a joy to use." />
-      <meta property="og:url" content="https://mitchelmore.dev" />
+      <meta property="og:title" content="Erwan Régy" />
+      <meta property="og:description" content="Electronic Engineering student at the University of Southampton, learning bit by byte." />
+      <meta property="og:url" content="https://erwanregy.github.io" />
       <meta property="og:type" content="website" />
       
       {/* Twitter Card meta tags */}
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Thomas Mitchelmore" />
-      <meta name="twitter:description" content="With over 6 years of experience in the industry, I'm a web designer and frontend developer that's passionate about creating beautiful, responsive sites that are a joy to use." />
-      <meta name="twitter:url" content="https://mitchelmore.dev" />
+      <meta name="twitter:title" content="Erwan Régy" />
+      <meta name="twitter:description" content="Electronic Engineering student at the University of Southampton, learning bit by byte." />
+      <meta name="twitter:url" content="https://erwanregy.github.io" />
 
       {/* Favicon/Misc */}
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
