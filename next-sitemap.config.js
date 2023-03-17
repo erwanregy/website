@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: "https://mitchelmore.dev/",
+    siteUrl: "https://erwanregy.github.io",
     generateRobotsTxt: true,
     robotsTxtOptions: {
         policies: [

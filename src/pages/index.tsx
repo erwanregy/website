@@ -8,7 +8,7 @@ function Index() {
       <main className="bg-card backdrop-blur-md border border-stroke max-w-lg rounded-xl overflow-hidden relative z-10">
         <div className="w-full h-64 relative">
           <Image
-            src="/image/me.jpeg"
+            src="/image/me.jpg"
             alt="Erwan Régy"
             fill
             className="object-cover"

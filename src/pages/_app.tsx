@@ -17,7 +17,7 @@ const displayFont = DisplayFont({
 export default function App({ Component, pageProps }: AppProps) {
   return <>
     <Head>
-      <title>Thomas Mitchelmore</title>
+      <title>Erwan Régy</title>
       <meta name="description" content="Electronic Engineering student at the University of Southampton, learning bit by byte." />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       
