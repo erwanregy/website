@@ -29,7 +29,7 @@ function Index() {
             Electronic Engineering student at the University of Southampton, learning bit by byte.
           </p>
           <p className="font-medium">
-            <a href="mailto:erwanregy@mail.com">erwanregy@mail.com</a>
+            <a href="mailto:erwanregy02@gmail.com">erwanregy02@gmail.com</a>
           </p>
           <div className="flex gap-4">
             <IconContext.Provider value={{size: "24"}}>
